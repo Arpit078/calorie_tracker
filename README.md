@@ -1,16 +1,4 @@
 # calorie_tracker
 
-A new Flutter project.
+<img width="722" height="1600" alt="1000056220" src="https://github.com/user-attachments/assets/6e73cad2-e89b-44c4-a793-677aaa8a4883" />
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
